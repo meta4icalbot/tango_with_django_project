@@ -2,5 +2,6 @@ db.sqlite3
 __pycache__/
 rango/__pycache__/
 *.pyc
+*.cpython-37.pyc
 tests_chapter*.py
 *.swp
