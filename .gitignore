@@ -3,3 +3,4 @@ __pycache__/
 rango/__pycache__/
 *.pyc
 tests_chapter*.py
+*.swp
